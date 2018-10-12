@@ -1,0 +1,6 @@
+
+print &flag_buf
+x20/bx 0x6013e8
+x/40s 0xb3c010
+
+picoCTF{gDb_iS_sUp3r_u53fuL_efaa2b29}

@@ -1,0 +1,7 @@
+login as any user:
+go to cookies and change 'admin' field from False to True
+go to cookies and change 'username' field to 'admin'
+
+refresh: http://2018shell3.picoctf.com:37861/flag
+
+picoCTF{l0g1ns_ar3nt_r34l_a280e12c}

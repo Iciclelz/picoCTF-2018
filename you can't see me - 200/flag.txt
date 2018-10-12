@@ -1,0 +1,4 @@
+ls -ld .?*
+cat {*,.*} | grep pico
+
+flag: picoCTF{j0hn_c3na_paparapaaaaaaa_paparapaaaaaa_cf5156ef}

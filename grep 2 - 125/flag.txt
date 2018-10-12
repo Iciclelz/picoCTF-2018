@@ -1,0 +1,2 @@
+grep -r 'picoCTF' *  
+picoCTF{grep_r_and_you_will_find_556620f7}

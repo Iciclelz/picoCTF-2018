@@ -1,0 +1,3 @@
+decode: dGg0dF93NHNfczFtcEwz
+
+picoCTF{th4t_w4s_s1mpL3}
