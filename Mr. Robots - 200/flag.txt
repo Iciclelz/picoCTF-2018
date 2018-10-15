@@ -1,0 +1,3 @@
+http://2018shell3.picoctf.com:29568/robots.txt
+http://2018shell3.picoctf.com:29568/74efc.html
+picoCTF{th3_w0rld_1s_4_danger0us_pl4c3_3lli0t_74efc}
